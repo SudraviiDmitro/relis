@@ -12,3 +12,71 @@ ul{
     list-style-type: none;
 }
 
+header{
+    display: flex;
+}
+
+.cont1-1 {
+    width: 1200px;
+    height: 100px;
+    background-color: #ff0000;
+}
+
+.container2{
+    width: 1200px;
+    height: 540px;
+    background-color: #00ff26;
+    display: flex;
+}
+
+.cont2-1{
+    width: 793px;
+    height: 540px;
+    background-color: #001347;
+}
+
+.cont2-2{
+    width: 387px;
+    height: 540px;
+    background-color: #ff00d4;
+    margin-left: 20px;
+}
+
+.container3{
+    width: 1200px;
+    height: 790px;
+    background-color: #00ff26;
+    display: flex;
+}
+
+.cont3-1{
+    width: 590px;
+    height: 790px;
+    background-color: #048e98;
+}
+
+.cont3-2{
+    width: 590px;
+    height: 790px;
+    background-color: #afc108;
+    margin-left: 20px;
+}
+
+.cont4-1 {
+    width: 1200px;
+    height: 250px;
+    background-color: #820029;
+}
+
+.cont5-1 {
+    width: 1200px;
+    height: 520px;
+    background-color: #00470f;
+}
+
+.cont6-1 {
+    width: 1200px;
+    height: 250px;
+    background-color: #ff92dd;
+}
+
