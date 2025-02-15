@@ -5,6 +5,7 @@
 
 body{
     width: 100vw;
+    
 }
 
 ul{
@@ -16,16 +17,43 @@ header{
     display: flex;
 }
 
-.cont1-1 {
+.container1 {
     width: 1200px;
+    height: 100px;
+    background-color: #730000;
+    display: flex;
+}
+
+.cont1-1{
+    width: 64px;
     height: 100px;
     background-color: #ff0000;
 }
 
+.cont1-2{
+    width: 182px;
+    height: 100px;
+    background-color: #001aff;
+}
+
+.cont1-3{
+    width: 488px;
+    height: 100px;
+    background-color: #37ff00;
+}
+
+.cont1-4{
+    width: 274px;
+    height: 100px;
+    background-color: #ccff00;
+}
+
+
+
 .container2{
     width: 1200px;
     height: 540px;
-    background-color: #00ff26;
+    background-color: #ffffff;
     display: flex;
 }
 
@@ -38,45 +66,103 @@ header{
 .cont2-2{
     width: 387px;
     height: 540px;
-    background-color: #ff00d4;
-    margin-left: 20px;
+    background-color: #49003d;
 }
 
 .container3{
     width: 1200px;
     height: 790px;
-    background-color: #00ff26;
+    background-color: #ffffff;
     display: flex;
 }
 
 .cont3-1{
     width: 590px;
     height: 790px;
-    background-color: #048e98;
+    background-color: #ffffff;
 }
 
 .cont3-2{
     width: 590px;
     height: 790px;
-    background-color: #afc108;
-    margin-left: 20px;
+    background-color: #ffffff;
 }
 
 .cont4-1 {
     width: 1200px;
     height: 250px;
-    background-color: #820029;
+    background-color: #672036;
 }
 
-.cont5-1 {
+.container5 {
     width: 1200px;
     height: 520px;
     background-color: #00470f;
+    display: flex;
 }
 
 .cont6-1 {
     width: 1200px;
     height: 250px;
-    background-color: #ff92dd;
+    background-color: #ae5893;
 }
 
+.cont3-1-1{
+    width: 590px;
+    height: 320px;
+    background-color: #5d6477;
+}
+
+.cont3-1-2{
+    width: 590px;
+    height: 180px;
+    background-color: #001aff;
+}
+
+.cont3-1-3{
+    width: 590px;
+    height: 250px;
+    background-color: #00470f;
+}
+
+.cont3-2-1{
+    width: 590px;
+    height: 100px;
+    background-color: #006c74;
+}
+
+.cont3-2-2{
+    width: 590px;
+    height: 400px;
+    background-color: #37ff00;
+}
+
+.cont3-2-3{
+    width: 590px;
+    height: 250px;
+    background-color: #49003d;
+}
+
+.cont5-1{
+    width: 240px;
+    height: 520px;
+    background-color: #ff0000;
+}
+
+.cont5-2{
+    width: 240px;
+    height: 520px;
+    background-color: #0400ff;
+}
+
+.cont5-3{
+    width: 240px;
+    height: 520px;
+    background-color: #ff0000;
+}
+    
+.cont5-4{
+    width: 240px;
+    height: 520px;
+    background-color: #0400ff;
+}
